@@ -1,0 +1,18 @@
+C:\Users\Ebru\Desktop\ÖDEV-VTYS\PizzaDukkan\PizzaDukkan\obj\Debug\PizzaDukkan.csprojResolveAssemblyReference.cache
+C:\Users\Ebru\Desktop\ÖDEV-VTYS\PizzaDukkan\PizzaDukkan\obj\Debug\PizzaDukkan.Form1.resources
+C:\Users\Ebru\Desktop\ÖDEV-VTYS\PizzaDukkan\PizzaDukkan\obj\Debug\PizzaDukkan.Properties.Resources.resources
+C:\Users\Ebru\Desktop\ÖDEV-VTYS\PizzaDukkan\PizzaDukkan\obj\Debug\PizzaDukkan.csproj.GenerateResource.Cache
+C:\Users\Ebru\Desktop\ÖDEV-VTYS\PizzaDukkan\PizzaDukkan\bin\Debug\PizzaDukkan.exe
+C:\Users\Ebru\Desktop\ÖDEV-VTYS\PizzaDukkan\PizzaDukkan\bin\Debug\PizzaDukkan.pdb
+C:\Users\Ebru\Desktop\ÖDEV-VTYS\PizzaDukkan\PizzaDukkan\obj\Debug\PizzaDukkan.exe
+C:\Users\Ebru\Desktop\ÖDEV-VTYS\PizzaDukkan\PizzaDukkan\obj\Debug\PizzaDukkan.pdb
+C:\Users\Ebru\Desktop\ÖDEV-VTYS\PizzaDukkan\PizzaDukkan\obj\Debug\PizzaDukkan.Siparis.resources
+C:\Users\Ebru\Desktop\ÖDEV-VTYS\PizzaDukkan\PizzaDukkan\obj\Debug\PizzaDukkan.Yonetici.resources
+C:\Users\Ebru\Desktop\ÖDEV-VTYS\PizzaDukkan\PizzaDukkan\obj\Debug\PizzaDukkan.Yonetici2.resources
+C:\Users\Ebru\Desktop\ÖDEV-VTYS\PizzaDukkan\PizzaDukkan\obj\Debug\PizzaDukkan.Adminmusteriler.resources
+C:\Users\Ebru\Desktop\ÖDEV-VTYS\PizzaDukkan\PizzaDukkan\obj\Debug\PizzaDukkan.Adminsiparisler.resources
+C:\Users\Ebru\Desktop\ÖDEV-VTYS\PizzaDukkan\PizzaDukkan\obj\Debug\PizzaDukkan.Adminurunler.resources
+C:\Users\Ebru\Desktop\VTYS-Yeni\PizzaDukkan\PizzaDukkan\obj\Debug\PizzaDukkan.exe
+C:\Users\Ebru\Desktop\VTYS-Yeni\PizzaDukkan\PizzaDukkan\obj\Debug\PizzaDukkan.pdb
+C:\Users\Ebru\Desktop\OKUL\Düzce Üniversitesi ( BM )\1.Yarıyıl\Veri Tabanı\VTYS-ÖDEV\PizzaDukkan\PizzaDukkan\obj\Debug\PizzaDukkan.exe
+C:\Users\Ebru\Desktop\OKUL\Düzce Üniversitesi ( BM )\1.Yarıyıl\Veri Tabanı\VTYS-ÖDEV\PizzaDukkan\PizzaDukkan\obj\Debug\PizzaDukkan.pdb
